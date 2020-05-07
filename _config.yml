@@ -1,6 +1,6 @@
 title: Kwang Kim's page
 logo: /img/kkim.png
 description: Why not change the World?
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
